@@ -6,7 +6,8 @@ In this project, I am using my hand as a virtual mouse than can do everything th
 
 Furthermore, a smoothness factor was added as the movement was really shaky.
 
-![Alt Text](https://github.com/HxnDev/Virtual-Mouse-using-OpenCV/blob/main/Virtual%20Mouse.gif)
+![virtua mouse ](https://github.com/user-attachments/assets/9b7386f6-5782-4912-86e2-23204462fb4a)
+
 
 ## Requirements:
 Following modules need to be installed for it to work properly:
