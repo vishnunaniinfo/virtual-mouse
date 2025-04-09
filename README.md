@@ -10,6 +10,8 @@ This project is a **gesture-based Virtual Mouse** built using **Python** and **O
 - Click using finger gestures
 - Smooth cursor control
 - Lightweight and real-time
+- ![thumnai](https://github.com/user-attachments/assets/04042989-1846-4c88-8fd2-020b63467f08)
+
 
 ---
 
